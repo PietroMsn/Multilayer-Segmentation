@@ -1,0 +1,11 @@
+{
+    "long_short_skirt": 0,
+    "longlong": 1,
+    "longshort": 2,
+    "short_short_skirt": 3,
+    "shortlong": 4,
+    "shortshort": 5,
+    "top_short_skirt": 6,
+    "toplong": 7,
+    "topshort": 8
+}

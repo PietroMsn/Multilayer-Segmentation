@@ -1,0 +1,5 @@
+This file has two gray values:
+/mnt/c/Users/User/Desktop/ADR/Dataset/Close/close_remesh_gt/longlong/10005_2039.ply
+
+This file has two gray values and a green value:
+/mnt/c/Users/User/Desktop/ADR/Dataset/Close/close_remesh_gt/long_short_skirt/10059_6091.ply
