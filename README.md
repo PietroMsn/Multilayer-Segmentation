@@ -96,7 +96,7 @@ If you find _Pointcept_ useful to your research, please cite our work as encoura
 
 ## Data Preparation - Scanned GIM3D
 
-Here the scenned GIM3D dataset can be donwloaded: [Scenned GIM3D Download](https://univr-my.sharepoint.com/:f:/g/personal/pietro_musoni_univr_it/EjZ0-1KtCn1NhqmtcdkuDngBK5l3gXg5kc-_8AZ3N0sBZA?e=AU90nM).
+Here the scenned GIM3D dataset can be donwloaded: [Scanned GIM3D Download](https://univr-my.sharepoint.com/:f:/g/personal/pietro_musoni_univr_it/EjZ0-1KtCn1NhqmtcdkuDngBK5l3gXg5kc-_8AZ3N0sBZA?e=AU90nM).
 All the folders contained in the root must be copied in the directory ```data``` of the current code folder.
 
 
